@@ -3,12 +3,12 @@ A Python-based coffee machine program that simulates the functionality of a real
 
 Features
 
->Coffee Options: Choose between espresso, latte, and cappuccino.
->Resource Management: Automatically checks the availability of ingredients (water, milk, and coffee) for each order.
->Coin Handling: Accepts quarters, dimes, nickels, and pennies as input, ensuring the user pays enough for their coffee.
->Change Calculation: Calculates and returns change when more money is inserted than required.
->Inventory Report: A report command shows the current status of the machine's resources and money.
->Shutdown: Use the off command to turn off the machine.
+a. Coffee Options: Choose between espresso, latte, and cappuccino.
+b. Resource Management: Automatically checks the availability of ingredients (water, milk, and coffee) for each order.
+c. Coin Handling: Accepts quarters, dimes, nickels, and pennies as input, ensuring the user pays enough for their coffee.
+d. Change Calculation: Calculates and returns change when more money is inserted than required.
+e. Inventory Report: A report command shows the current status of the machine's resources and money.
+f. Shutdown: Use the off command to turn off the machine.
 
 How It Works:
 
